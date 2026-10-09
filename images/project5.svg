@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400">
+  <defs><linearGradient id="e" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f2dfeb"/><stop offset="1" stop-color="#e8cae0"/></linearGradient></defs>
+  <rect width="720" height="400" fill="url(#e)"/><circle cx="574" cy="85" r="114" fill="#fff" opacity=".23"/><rect x="202" y="37" width="316" height="326" rx="8" fill="#fff7fb" transform="rotate(-3 202 37)"/>
+  <rect x="232" y="70" width="252" height="260" rx="5" fill="#f1d5e3"/><circle cx="433" cy="112" r="48" fill="#dca9c3"/><path d="M356 186c22-64 111-79 145-26v105H356z" fill="#b45f90"/><path d="M359 214c-51-26-78 6-65 55 19 31 59 20 84-12" fill="#704d75"/><circle cx="400" cy="124" r="31" fill="#eec2a8"/><path d="M367 125c-4-48 67-62 77-7-19-8-47-20-77 7z" fill="#4c354f"/><path d="M260 225h70v8h-70zm0 16h60v5h-60z" fill="#9d587e" opacity=".7"/><rect x="257" y="272" width="201" height="31" rx="15" fill="#fff7fb"/><text x="357" y="293" text-anchor="middle" fill="#814269" font-family="Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2">FEEL BEAUTIFUL</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 400">
+  <defs><linearGradient id="f" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0cd"/><stop offset="1" stop-color="#dff0d7"/></linearGradient></defs>
+  <rect width="720" height="400" fill="url(#f)"/><circle cx="130" cy="67" r="94" fill="#fff" opacity=".28"/><rect x="169" y="37" width="382" height="326" rx="9" fill="#fffdf7" transform="rotate(2 169 37)"/>
+  <rect x="195" y="63" width="330" height="277" rx="5" fill="#eff6df"/><circle cx="352" cy="184" r="91" fill="#d4e8ad"/>
+  <path d="M282 185c4-47 42-64 72-39-4 41-37 64-72 39z" fill="#e9a926"/><path d="M343 144c-7-18-4-36 8-49 10 17 9 33 0 48" fill="#51894b"/><path d="M379 191c6-49 48-63 73-33-5 42-39 63-73 33z" fill="#de5244"/><path d="M431 159c-1-21 7-35 22-44 5 19-1 34-15 46" fill="#43824e"/><circle cx="340" cy="235" r="29" fill="#b64752"/><path d="M337 207c0-13 8-23 19-28 2 13-3 23-14 31" fill="#49804b"/>
+  <text x="360" y="103" text-anchor="middle" fill="#355342" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="3">FRESH EVERY DAY</text><rect x="259" y="291" width="202" height="27" rx="13" fill="#398455"/><text x="360" y="309" text-anchor="middle" fill="#fff" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">LOCAL · FRESH · DELICIOUS</text>
+</svg>
